@@ -77,8 +77,8 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Backend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark"/>
-<img src="./Api.svg" height="24" title="REST API"/>
-<img src="./Jwt.svg" height="24" title="JWT"/>
+<img src="./Api.svg" height="30" title="REST API"/>
+<img src="./Jwt.svg" height="30" title="JWT"/>
 <br/>
 <sub>REST · JWT · Auth</sub>
 
@@ -88,7 +88,7 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Frontend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
-<img src="./Lwc.svg" hieght="24" title="LWC" />
+<img src="./Lwc.svg" height="30" title="LWC" />
 <br/>
 <sub>Responsive UI</sub>
 
