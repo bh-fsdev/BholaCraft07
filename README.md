@@ -67,8 +67,7 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Languages**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,js,bash&theme=dark"/>
-<img src="./Apec.svg" height="48" title="Apex"/>
-<img src="./Lwc.svg" height="48" title="LWC"/>
+<img src="./Apex.svg" height="24" title="Apex"/>
 <br/>
 <sub>Apex · SOQL · SQL</sub>
 
@@ -78,8 +77,8 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Backend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark"/>
-<img src="./Api.svg" height="48" title="REST API"/>
-<img src="./Jwt.svg" height="48" title="JWT"/>
+<img src="./Api.svg" height="24" title="REST API"/>
+<img src="./Jwt.svg" height="24" title="JWT"/>
 <br/>
 <sub>REST · JWT · Auth</sub>
 
@@ -89,6 +88,7 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Frontend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+<img src="./Lwc.svg" hieght="24" title="LWC" />
 <br/>
 <sub>Responsive UI</sub>
 
