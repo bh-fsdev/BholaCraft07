@@ -76,6 +76,8 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 **Backend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,socketio&theme=dark"/>
+<img src="assets/icons/api.svg" height="48" title="REST API"/>
+<img src="assets/icons/jwt.svg" height="48" title="JWT"/>
 <br/>
 <sub>REST · JWT · Auth</sub>
 
@@ -115,6 +117,13 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 <br/>
 
 ## ⬡ Salesforce Expertise
+
+<div align="center">
+<img src="assets/icons/apex.svg" height="34" title="Apex"/> &nbsp;&nbsp;
+<img src="assets/icons/lwc.svg" height="34" title="Lightning Web Components"/>
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
@@ -164,6 +173,7 @@ Currently based in **Aurangabad, Bihar, India**, working as an **Associate Softw
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,githubactions,git,terraform,ansible,aws&theme=dark"/>
+<img src="assets/icons/gitlab.svg" height="48" title="GitLab"/>
 
 <br/><br/>
 
